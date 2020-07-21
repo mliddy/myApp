@@ -1,1 +1,2 @@
 File 2 - first edit
+Made a second edit to File 2 before pushing to remote
